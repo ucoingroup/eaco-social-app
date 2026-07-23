@@ -1,8 +1,3 @@
-# eaco-social-app v 0.01
-
-eaco-social-app 3KM life...
-
-
 # EACO Earth Village - Semi-Acquaintance Social Platform
 
 > **EACO ($e)** - Earth's Best Coin | AI + RWA + Web3 | Solana Blockchain
@@ -110,4 +105,3 @@ MIT - Free to use, modify, and distribute.
 ---
 
 Powered by EACO ($e) - Earth's Best Coin
-
